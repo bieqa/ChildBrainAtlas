@@ -10,6 +10,6 @@ References:
 1.	Jia Du, Alvina Goh, Anqi Qiu*, “Diffeomorphic Metric Mapping of High Angular Resolution Diffusion Imaging based on Riemannian Structure of Orientation Distribution Functions”, IEEE Trans. Med. Imaging, 31(5):1021-1033, 2012. 
 2.	Anqi Qiu*, Timothy Brown, Bruce Fischl, Jun Ma, Michael I. Miller, “Atlas Generation for Subcortical and Ventricular Structures with its Applications in Shape Analysis”, IEEE transactions on Image Processing, 19(6):1539-1547, 2010. 
 3.	Jordan Bai, Muhammad Farid Abdul-Rahman, Anne Rifkin-Graboi, Yap-Seng Chong, Kenneth Kwek, Seang-Mei Saw, Keith Godfrey, Peter D. Gluckman, Marielle V. Fortier, Michael J. Meaney, Anqi Qiu*, “Population Differences in Brain Morphology and Microstructure in Chinese, Malay, and Indian Neonates”, PLoS One, 7(10):e47816, 2012.
-4.  Jingwen Zhu, Han Zhang, Yap-Seng Chong, Lynette P. Shek, Peter D. Gluckman, Michael J. Meaney, Marielle V. Fortier, and Anqi Qiu*, “Structural and Functional Atlases of Asian Children from Infancy to Childhood”, Neuroimage
+4.  Jingwen Zhu, Han Zhang, Yap-Seng Chong, Lynette P. Shek, Peter D. Gluckman, Michael J. Meaney, Marielle V. Fortier, and Anqi Qiu*, “Integrated Structural and Functional Atlases of Asian Children from Infancy to Childhood”, Neuroimage, 245:118716, 2021.
 
 published by Anqi Qiu (bieqa@nus.edu.sg)
